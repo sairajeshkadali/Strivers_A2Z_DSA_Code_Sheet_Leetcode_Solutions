@@ -28,4 +28,28 @@ My LeetCode solutions for the Strivers A2Z DSA Sheet problems.
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Binary Search
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Greedy
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Sorting
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
