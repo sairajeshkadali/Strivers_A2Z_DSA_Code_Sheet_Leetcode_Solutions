@@ -8,6 +8,7 @@ My LeetCode solutions for the Strivers A2Z DSA Sheet problems.
 | ------- |
 | [0009-palindrome-number](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -36,10 +37,12 @@ My LeetCode solutions for the Strivers A2Z DSA Sheet problems.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -52,9 +55,18 @@ My LeetCode solutions for the Strivers A2Z DSA Sheet problems.
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
