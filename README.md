@@ -7,12 +7,14 @@ My LeetCode solutions for the Strivers A2Z DSA Sheet problems.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -33,6 +35,7 @@ My LeetCode solutions for the Strivers A2Z DSA Sheet problems.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
