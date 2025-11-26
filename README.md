@@ -35,6 +35,7 @@ My LeetCode solutions for the Strivers A2Z DSA Sheet problems.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@ My LeetCode solutions for the Strivers A2Z DSA Sheet problems.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
