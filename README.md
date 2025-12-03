@@ -24,6 +24,7 @@ My LeetCode solutions for the Strivers A2Z DSA Sheet problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -38,6 +39,7 @@ My LeetCode solutions for the Strivers A2Z DSA Sheet problems.
 | ------- |
 | [0001-two-sum](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0189-rotate-array) |
@@ -81,6 +83,7 @@ My LeetCode solutions for the Strivers A2Z DSA Sheet problems.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
