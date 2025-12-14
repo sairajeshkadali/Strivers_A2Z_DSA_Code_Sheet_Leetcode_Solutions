@@ -1,15 +1,16 @@
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
-        int n = nums.size(), count = 0;
-        long long sum = 0;
+        int count = 0, n = nums.size();
+        long long prefixSum = 0;
+        unordered_map<long long, int> freqSet;
+        freqSet[prefixSum]++;
         for (int i = 0; i < n; i++) {
-            sum = 0;
-            for (int j = i; j < n; j++) {
-                sum += nums[j];
-                if (sum == k)
-                    count++;
-            }
+            prefixSum += nums[i];
+            int remSum = prefixSum - k;
+            if (freqSet.find(remSum) != freqSet.end())
+                count += freqSet[remSum];
+            freqSet[prefixSum]++;
         }
         return count;
     }
