@@ -11,6 +11,7 @@ My LeetCode solutions for the Strivers A2Z DSA Sheet problems.
 | [0189-rotate-array](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@ My LeetCode solutions for the Strivers A2Z DSA Sheet problems.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0125-valid-palindrome) |
+| [1903-largest-odd-number-in-string](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +68,7 @@ My LeetCode solutions for the Strivers A2Z DSA Sheet problems.
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
