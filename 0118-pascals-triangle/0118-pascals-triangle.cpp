@@ -1,18 +1,14 @@
 class Solution {
 public:
     vector<vector<int>> generate(int numRows) {
-        vector<vector<int>> sol;
-        for (int row = 0; row < numRows; row++) {
-            vector<int> tempSol;
-            int ele = 1;
-            tempSol.emplace_back(ele);
-            for (int col = 0; col < row; col++) {
-                ele *= (row - col);
-                ele /= (col+1);
-                tempSol.emplace_back(ele);
+        vector<vector<int>> pascalTriangle;
+        for(int i = 0; i < numRows; i++){
+            pascalTriangle.push_back(vector<int>(i+1));
+            for(int j = 0; j <= i; j++){
+                if(i == j || j == 0) pascalTriangle[i][j] = 1;
+                else pascalTriangle[i][j] = pascalTriangle[i-1][j-1] + pascalTriangle[i-1][j];
             }
-            sol.push_back(tempSol);
         }
-        return sol;
+        return pascalTriangle;
     }
 };
