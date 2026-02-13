@@ -68,6 +68,7 @@ My LeetCode solutions for the Strivers A2Z DSA Sheet problems.
 | [0485-max-consecutive-ones](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0704-binary-search) |
+| [0861-score-after-flipping-matrix](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -79,6 +80,7 @@ My LeetCode solutions for the Strivers A2Z DSA Sheet problems.
 ## Greedy
 |  |
 | ------- |
+| [0861-score-after-flipping-matrix](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0861-score-after-flipping-matrix) |
 | [1903-largest-odd-number-in-string](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
@@ -113,6 +115,7 @@ My LeetCode solutions for the Strivers A2Z DSA Sheet problems.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0861-score-after-flipping-matrix](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0861-score-after-flipping-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,6 +143,7 @@ My LeetCode solutions for the Strivers A2Z DSA Sheet problems.
 | [0054-spiral-matrix](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0861-score-after-flipping-matrix](https://github.com/sairajeshkadali/Strivers_A2Z_DSA_Code_Sheet_Leetcode_Solutions/tree/master/0861-score-after-flipping-matrix) |
 ## Stack
 |  |
 | ------- |
